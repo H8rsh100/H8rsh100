@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg?v=17" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg?v=17" />
-  <img alt="H8rsh100's GitHub profile" src="dark_mode.svg?v=17" />
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg?v=18" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg?v=18" />
+  <img alt="H8rsh100's GitHub profile" src="dark_mode.svg?v=18" />
 </picture>
 
 <!--
